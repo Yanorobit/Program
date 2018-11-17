@@ -1,0 +1,23 @@
+
+.container{
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+.textStyle{
+background-color: grey ;
+
+
+}
+.textStyle p{
+  width: 70%;
+  margin: auto;
+  padding: 30px;
+}
+.textStyle h2{
+  padding: 2rem;
+}
+.textStyle button{
+  margin-bottom: 1rem;
+  margin-bottom: 3rem;
+}
